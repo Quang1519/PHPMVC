@@ -26,6 +26,7 @@
 
 			
 			// $username = $_REQUEST['idsp'];
+			// $username
 			
 			$tong = 0;
 			foreach ($update as $key => $value) {
